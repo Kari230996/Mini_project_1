@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Test",
+        "body": "Lorem ipsu dum",
+        "created_date": "2023-04-27 21:44:17",
+        "last_updated_date": "2023-04-27 21:44:17"
+    },
+    {
+        "id": 2,
+        "title": "The World",
+        "body": "El Psy Congroo",
+        "created_date": "2023-04-27 21:45:17",
+        "last_updated_date": "2023-04-29 18:43:22"
+    },
+    {
+        "id": 3,
+        "title": "John Titor",
+        "body": "Be the Messiah",
+        "created_date": "2023-04-29 18:43:52",
+        "last_updated_date": "2023-04-29 18:43:52"
+    }
+]
